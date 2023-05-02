@@ -16,7 +16,9 @@ Abstract : This porject is to practice git.
 $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
+
 ```
+Now i'm doing vim
 
 ## How to start
 
